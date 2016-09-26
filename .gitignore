@@ -1,0 +1,6 @@
+lisp/
+elpa/
+elm-mode/
+auto-save-list/
+session.*
+*.*~
